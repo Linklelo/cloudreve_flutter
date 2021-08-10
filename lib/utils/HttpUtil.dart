@@ -8,7 +8,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 class HttpUtil {
   static CookieJar cookieJar = CookieJar();
 
-  static String baseUrl = 'https://cloudreve.yycccloud.cn';
+  static String baseUrl = 'https://one.linkle.top';
 
   static BaseOptions normalOption = BaseOptions(
     baseUrl: baseUrl,
